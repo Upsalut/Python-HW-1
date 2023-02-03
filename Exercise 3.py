@@ -2,8 +2,8 @@
 # в которой находится эта точка (или на какой оси она находится).
 
 print('Enter point coordinates:')
-x = int(input('Eter a coordinate X: '))
-y = int(input('Eter a coordinate Y: '))
+x = int(input('Enter a coordinate X: '))
+y = int(input('Enter a coordinate Y: '))
 
 if x == 0 or y == 0:
     print('One or more coordinates has the value equals zero!!')
